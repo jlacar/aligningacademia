@@ -6,7 +6,7 @@ Description
 
 Write a program that will read a text file and parse data from it.
 
-Each line of file can contain up to four pairs of numbers and words, with
+Each line of the file can contain up to four pairs of numbers and words, with
 each pair separated from the next by a comma. The number in a pair represents
 a quantity. The word is the name of a fruit flavor.
 
@@ -20,7 +20,7 @@ This is what a data file might look like:
     1 mango
     18 banana, 7 grape, 4 orange
 
-Given the above data, the program should generate the following output:
+The program should generate the following output:
 
 1. List of flavors and total quantities, in descending order of quantity
 2. List of flavors and total quantities, in ascending order of quantity
