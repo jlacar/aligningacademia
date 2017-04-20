@@ -11,35 +11,30 @@ particular face up is the same for all other faces.
 A _loaded die_ is one where the probability of it landing with one particular
 face up is significantly greater than the probability of any other face landing
 up. Refer to the favored face as the _loaded face_. Refer to all other faces
-as _non-loaded_. Non-loaded faces will all have the same probability of  
-landing up.
+as _non-loaded_. Non-loaded faces will all have the same probability of landing up.
 
-The _loaded face_ should have no less than 30% greater probability of landing
-up than any non-loaded face but it should not exceed 60% greater probability
+The _loaded face_ should have no less than 20% greater probability of landing
+up than any non-loaded face but it should not exceed 40% greater probability
 than any non-loaded face of landing up.
 
 The input to the program will be `N`, the number of sides of the die to
 create. The die created by the program should have a 50-50 chance of being
 one of the two variants of die.
 
-Provide a way to test whether a Die is loaded or balanced. DO NOT provide
-any functionality that allows a Die to explicitly report whether it is
+Provide a way to test whether a die is loaded or balanced. DO NOT provide
+any functionality that allows a die to explicitly report whether it is
 loaded or balanced. That is, you MAY NOT provide an `isLoaded()` or an
-`isBalanced()` method or any similar means of querying the type of Die.
+`isBalanced()` method or any similar means of querying the type of die.
 
-The testing part of your program can assume the 30%/60% greater probability
-for the loaded face and it can rely on a `getSides()` method or similar
-means to query a die for the number of faces it has.
-
-The determination of `loaded` or `balanced` must be done through statistical
-inference, that is, it will be based solely on empirical (observed) data
-obtained by rolling the die.
+Your program must determine whether a die is `balanced` or `loaded` by
+statistical inference. That is, it should be based solely on empirical
+(observed) data obtained by rolling the die.
 
 Goals
 -----
 
-Determine ability to analyze a problem, think critically, design and
-develop a correct solution.
+Determine candidate's ability to analyze a problem, think critically,
+elicit requirements, and design and develop a correct solution.
 
 Assumptions
 -----------
