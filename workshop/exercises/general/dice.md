@@ -1,6 +1,9 @@
 Exercise: Simulate N-sided die
 ==============================
 
+Specifications
+--------------
+
 Write a program that will simulate rolling an N-sided die.
 
 Create two variants of die: one that is balanced and another that is loaded.
@@ -33,13 +36,16 @@ statistical inference. That is, it should be based solely on empirical
 Goals
 -----
 
-Determine candidate's ability to analyze a problem, think critically,
-elicit requirements, and design and develop a correct solution.
+**Student** - Finish as much of the required functionality as possible within
+the time alloted.
+
+**Evaluator** - Determine candidate's ability to analyze a problem, think
+critically, elicit requirements, and design and develop a correct solution.
 
 Assumptions
 -----------
 
-You may assume that `N` is at least 3 and at most 9.
+You may assume that the input `N` is at least 3 and at most 9.
 
 Sample run
 ----------
