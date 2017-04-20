@@ -9,15 +9,14 @@ A _balanced die_ is one where the probability of it landing with a
 particular face up is the same for all other faces.
 
 A _loaded die_ is one where the probability of it landing with one particular
-face up is significantly greater than the probability of it landing with any
-other face up. Refer to the favored face as the _loaded face_.
+face up is significantly greater than the probability of any other face landing
+up. Refer to the favored face as the _loaded face_. Refer to all other faces
+as _non-loaded_. Non-loaded faces will all have the same probability of  
+landing up.
 
-All other faces are _non-loaded_ and have the same probability of showing as
-other non-loaded faces.
-
-The loaded face should have no less than 30% greater probability of showing up
-than any non-loaded face but it should not exceed 60% greater probability of
-showing up than any non-loaded face.
+The _loaded face_ should have no less than 30% greater probability of landing
+up than any non-loaded face but it should not exceed 60% greater probability
+than any non-loaded face of landing up.
 
 The input to the program will be `N`, the number of sides of the die to
 create. The die created by the program should have a 50-50 chance of being
@@ -35,6 +34,12 @@ means to query a die for the number of faces it has.
 The determination of `loaded` or `balanced` must be done through statistical
 inference, that is, it will be based solely on empirical (observed) data
 obtained by rolling the die.
+
+Goals
+-----
+
+Determine ability to analyze a problem, think critically, design and
+develop a correct solution.
 
 Assumptions
 -----------
