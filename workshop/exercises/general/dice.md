@@ -37,7 +37,7 @@ Goals
 -----
 
 **Candidate** - Finish as much of the required functionality as possible within
-the time alloted.
+the time allotted.
 
 **Evaluator** - Determine candidate's ability to analyze a problem, think
 critically, elicit requirements, and design and develop a correct solution.
