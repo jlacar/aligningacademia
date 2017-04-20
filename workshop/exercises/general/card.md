@@ -18,8 +18,8 @@ Provide a way to shuffle the cards in a deck.
 Provide a way to display the cards in a deck.
 
 When displaying a card "face up", the output should be the card's rank and suit.
-For example, an Ace of Spades card should display as `A&#2660` and a Two of
-Hearts should display as `2&#2665`.
+For example, an Ace of Spades card should display as `A&#2660;` and a Two of
+Hearts should display as `2&#2665;`.
 
 The Unicode character values for the card suits are as follows:
 
