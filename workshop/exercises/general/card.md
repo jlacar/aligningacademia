@@ -20,14 +20,16 @@ Provide a way to display the cards in a deck.
 When displaying a card "face up", the output should be the card's rank and suit.
 
 For example, an Ace of Spades card should display as A&#x2660; and a Two of
-Hearts card should display as 2&#x2665;
+Hearts card should display as 2&#x2665; when they are "face up". When displayed
+as being "face down," a card should be shown as &#x2592;&#x2592; (two characters)
 
-Use the following Unicode character values to display the card suits:
+Use the following Unicode character values to display the card suits and "back":
 
     Spades   : u+2660
     Hearts   : u+2665
     Clubs    : u+2663
     Diamonds : u+2666
+    Back     : u+2592
 
 Also provide a way to display the fully spelled-out name of a card such as
 `Ace of Spades` and `Two of Hearts`.
