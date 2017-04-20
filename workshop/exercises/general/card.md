@@ -19,10 +19,8 @@ Provide a way to display the cards in a deck.
 
 When displaying a card "face up", the output should be the card's rank and suit.
 
-For example,
-
-    Ace of Spades should display as A&#x2660;
-    Two of Hearts should display as 2&#x2665;
+For example, an Ace of Spades card should display as A&#x2660; and a Two of
+Hearts card should display as 2&#x2665;
 
 Use the following Unicode character values to display the card suits:
 
