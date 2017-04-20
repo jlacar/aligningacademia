@@ -1,0 +1,49 @@
+20 mango, 31 banana
+5 lemon
+23 apple, 1 peach, 26 grape
+38 apple, 36 lemon, 28 strawberry, 49 mango
+29 banana
+35 apple, 17 banana
+49 peach, 25 mango, 20 banana
+37 orange
+41 grape, 21 banana, 25 orange, 20 peach
+40 lemon, 14 peach
+42 mango, 30 apple, 23 grape
+23 strawberry
+39 mango, 45 banana
+6 peach, 15 lemon
+20 banana, 15 orange, 1 strawberry, 13 mango
+14 apple
+29 peach, 18 strawberry
+10 strawberry, 17 apple
+23 banana, 10 apple
+49 strawberry, 23 grape, 26 apple
+8 apple, 7 strawberry, 14 peach, 36 peach
+15 strawberry, 46 orange, 10 grape, 25 apple
+14 peach, 9 grape, 16 strawberry, 7 lemon
+28 lemon, 47 orange, 8 banana
+16 strawberry, 19 lemon, 40 grape
+49 banana, 44 peach
+1 grape
+39 orange, 4 lemon, 18 mango
+49 grape, 50 lemon, 8 apple, 24 strawberry
+29 strawberry, 34 peach, 3 grape, 21 mango
+7 peach, 14 mango, 24 orange, 21 banana
+19 apple
+4 strawberry, 14 lemon
+24 banana, 28 peach
+44 mango, 9 apple, 4 peach
+39 lemon, 22 mango
+3 peach
+10 banana, 24 strawberry
+42 peach, 44 lemon, 24 strawberry
+32 orange, 13 peach, 29 grape, 39 apple
+40 orange, 3 grape, 1 apple
+18 orange, 21 peach
+28 lemon, 32 strawberry
+25 orange, 43 strawberry, 15 banana
+30 banana, 3 orange, 36 lemon
+13 peach, 22 apple, 35 strawberry
+8 grape, 6 strawberry
+17 strawberry
+14 apple, 22 peach
