@@ -36,7 +36,7 @@ statistical inference. That is, it should be based solely on empirical
 Goals
 -----
 
-**Student** - Finish as much of the required functionality as possible within
+**Candidate** - Finish as much of the required functionality as possible within
 the time alloted.
 
 **Evaluator** - Determine candidate's ability to analyze a problem, think
