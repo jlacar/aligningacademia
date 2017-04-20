@@ -22,7 +22,7 @@ When displaying a card "face up", the output should be the card's rank and suit.
 For example, an Ace of Spades card should display as A&#x2660; and a Two of
 Hearts card should display as 2&#x2665; when they are "face up". When displayed
 as being "face down," a card should be shown as &#x2592;&#x2592; (two characters).
-A Ten card should just be displayed with a `T`, as in T&#x2666; for the Ten of Diamonds.
+The rank of Ten should just be displayed with a **T**, as in T&#x2666; for the Ten of Diamonds.
 
 Use the following Unicode character values to display the card suits and "back":
 
@@ -41,7 +41,11 @@ of another card if its suit is the opposite color from the other and its rank
 is exactly one less than that of the other. That is, a `Jack of Hearts` can
 only be placed on top of a `Queen of Spades` or a `Queen of Clubs`.
 
-Demonstrate that your code does indeed implement the above requirements.
+Lastly, display the initial deal of Solitaire with 7 columns of cards, the
+first column with one card, the second with two cards, etc., per the above
+specifications for displaying cards.
+
+Demonstrate that your code implements all of the above requirements.
 
 Goals
 -----
