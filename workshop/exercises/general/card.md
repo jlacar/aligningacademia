@@ -21,7 +21,8 @@ When displaying a card "face up", the output should be the card's rank and suit.
 
 For example, an Ace of Spades card should display as A&#x2660; and a Two of
 Hearts card should display as 2&#x2665; when they are "face up". When displayed
-as being "face down," a card should be shown as &#x2592;&#x2592; (two characters)
+as being "face down," a card should be shown as &#x2592;&#x2592; (two characters).
+A Ten card should just be displayed with a `T`, as in T&#x2666; for the Ten of Diamonds.
 
 Use the following Unicode character values to display the card suits and "back":
 
